@@ -18,7 +18,7 @@ jsou členy přípravného výboru:
 ## Osoby účastnící se zakládající schůze
 Zakládající schůze se nezůčastnil nikdo, kdo by splňoval podmínky členství a nebyl členem přípravného výboru.
 
-Zakládajícími členy tedy jsou:
+**Zakládajícími členy** tedy jsou:
  * Vojtěch Pikal
  * Petr Kopáč
  * Jan Dvořák
